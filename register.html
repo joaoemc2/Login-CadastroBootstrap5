@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Registro</title>
+    <!-- Boostrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <!-- css local -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div class="container col-11 col-md-9" id="form-container">
+        <div class="row gx-5">
+            <div class="col-md-6">
+                <h2>Realize seu cadastro</h2>
+                <form action="">
+                    <div class="form-floating mb-3">
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Digite o seu nome">
+                        <label for="name" class="form-label">Digite o seu nome</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input type="text" class="form-control" id="lastname" name="lastname"
+                            placeholder="Digite o seu sobrenome">
+                        <label for="lastname" class="form-label">Digite o seu sobrenome</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input type="email" class="form-control" id="email" name="email"
+                            placeholder="Digite o seu e-mail">
+                        <label for="email" class="form-label">Digite o seu e-mail</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input type="password" class="form-control" id="password" name="password"
+                            placeholder="Digite sua senha">
+                        <label for="password" class="form-label">Digite sua senha</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input type="passwordconfirm" class="form-control" id="passwordconfirm" name="passwordconfirm"
+                            placeholder="Confirme sua senha">
+                        <label for="passwordconfirm" class="form-label">Confirme sua senha</label>
+                    </div>
+                    <div class="mb-3">
+                        <div class="form-check mb-2">
+                            <input type="checkbox" class="form-check-input" value="" id="agree-form" name="agree-form">
+                            <label for="agree-form" class="form-check-label">
+                                Aceito os <a href="#">termos de uso</a>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <div class="form-check mb-2">
+                            <input type="checkbox" class="form-check-input" checked id="newsletter" name="newsletter">
+                            <label for="newsletter" class="form-check-label">
+                                Aceito receber e-mails promocionais
+                            </label>
+                        </div>
+                    </div>
+                    <input type="submit" class="btn btn-primary" value="Cadastrar"></input>
+                </form>
+            </div>
+            <div class="col md-6">
+                <div class="row align-items center">
+                    <div class="col-12">
+                        <img src="img/hello.svg" class="img-fluid" alt="tela de registro">
+                    </div>
+                    <div class="col-12" id="link-container">
+                        <a href="index.html">Já tenho uma conta</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
