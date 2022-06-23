@@ -18,7 +18,7 @@ Foi criada uma pagina onde o usuário possa efetuar o login inserindo email e se
 
   
 - [x] Pagina de login (login.html) 
-- [ ] Pagina de Cadastro (registration.html)
+- [ ] Pagina de Cadastro (register.html)
   
 ## Conteúdo 
   
@@ -32,7 +32,7 @@ Foi criada uma pagina onde o usuário possa efetuar o login inserindo email e se
   * Botão Submit
   * Link "Ainda não tenho cadastro"
 
-### Pagina de Cadastro (registration.html) 
+### Pagina de Cadastro (register.html) 
   
 - Formulário 
   * Titulo
