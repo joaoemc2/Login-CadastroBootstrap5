@@ -2,10 +2,11 @@
 
 :root {
     --color-principal: #6c63ff;
+    --color-white: #f8f8f8;
 }
 
 body {
-    background-color: #f8f8f8;
+    background-color: var(--color-white);
     font-family: montserrat;
 }
 
