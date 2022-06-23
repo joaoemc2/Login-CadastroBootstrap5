@@ -23,7 +23,7 @@ Foi criada uma pagina onde o usuário possa efetuar o login inserindo email e se
 
   
 - [x] Pagina de login (login.html) 
-- [ ] Pagina de Cadastro (register.html)
+- [x] Pagina de Cadastro (register.html)
   
 ## Conteúdo 
   
@@ -34,8 +34,8 @@ Foi criada uma pagina onde o usuário possa efetuar o login inserindo email e se
   * Titulo
   * Input "email"
   * Input "senha"
-  * Botão Submit
-  * Link "Ainda não tenho cadastro"
+  * Botão submit
+  * Link "ainda não tenho cadastro"
 
 ### Pagina de Cadastro (register.html) 
   
@@ -45,19 +45,19 @@ Foi criada uma pagina onde o usuário possa efetuar o login inserindo email e se
   * Input "sobrenome"
   * Input "email"
   * Input "senha"
-  * Input "Confirmação de senha"
-  * Checkbox "Termos de uso"
-  * Checkbox "Newsletter"
-  * Botão Submit
+  * Input "confirmação de senha"
+  * Checkbox "termos de uso"
+  * Checkbox "newsletter"
+  * Botão submit
   * Vetor/ilustração
-  * Link "Já tenho cadastro"
+  * Link "já tenho cadastro"
   
  ## Instruções 
   
  Basta fazer o download dos arquivos e abrir:
  
  - "login.html" para tela de Login
- - "registration.html" para tela de Cadastro 
+ - "register.html" para tela de Cadastro 
   
  ## Ferramentas utilizadas 
   
