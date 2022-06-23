@@ -1,9 +1,14 @@
 # Telas De Login e Cadastro Com Bootstrap 
   
 ## Capturas de Tela 
-  
-<img src="#" style="width: 30%;"/>
-  
+
+<div style=" display: flex;">
+  <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/loginMobile.png" style="height: 300px; "/>
+  <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/loginDesktop.png" style="height: 300px;"/>
+  <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/registerDesktop.png" style="height: 346px;"/>
+  <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/registerMobile.png" style="height: 346px;"/>
+</div>
+
 ## Objetivo do Projeto: 
   
 Praticar a parte de formulários do Bootstrap 5 criando uma pagina responsiva de login e outra de cadastro.
