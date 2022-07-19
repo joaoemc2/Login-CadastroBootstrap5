@@ -5,8 +5,8 @@
 <div style=" display: flex;">
   <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/loginMobile.png" style="height: 300px; "/>
   <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/loginDesktop.png" style="height: 300px;"/>
-  <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/registerDesktop.png" style="height: 346px;"/>
-  <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/registerMobile.png" style= "height: 346px;"/>
+  <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/registerDesktop.png" style="height: 300px;"/>
+  <img src="https://joaoguimaraes.com/img/gitScreenshots/loginRegisterBootstrap5/registerMobile.png" style="height: 300px; "/>
 </div>
 
 ## Objetivo do Projeto: 
